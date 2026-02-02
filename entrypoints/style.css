@@ -1,0 +1,11 @@
+/**
+ * Selects an <li> element that contains:
+ * 1. An <a> tag with "/agents" in the href
+ * 2. An <svg> with the class "octicon-agent"
+ *
+ * This prevents FOUC (Flash of Unstyled Content) efficiently.
+ */
+li:has(a[href*="/agents"] svg.octicon-agent) {
+	/* biome-ignore lint/complexity/noImportantStyles: <display> */
+	display: none !important;
+}
