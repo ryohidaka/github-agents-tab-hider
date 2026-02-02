@@ -11,6 +11,8 @@
 
 A browser extension to hide the Agents tab on GitHub
 
+![Screenshot](./docs/images/screenshot.png)
+
 ## Installation
 
 <!-- [<img src="./docs/images/store/chrome-web-store.png" alt="Available in the Chrome Web Store" width="248" />](https://chromewebstore.google.com/detail/.../...) -->
