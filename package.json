@@ -2,7 +2,7 @@
 	"name": "github-agents-tab-hider",
 	"description": "A browser extension to hide the Agents tab on GitHub",
 	"private": true,
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
 		"dev": "wxt",
