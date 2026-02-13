@@ -3,6 +3,8 @@ import { defineConfig } from "wxt";
 // See https://wxt.dev/api/config.html
 export default defineConfig({
 	manifest: {
-		name: "GitHub Agents Tab Hider",
+		name: "__MSG_extensionName__",
+		description: "__MSG_extensionDescription__",
+		default_locale: "en",
 	},
 });
