@@ -1,0 +1,8 @@
+{
+	"extensionName": {
+		"message": "GitHub Agents Tab Hider"
+	},
+	"extensionDescription": {
+		"message": "GitHubリポジトリページ上の「Agents」タブを非表示にするブラウザ拡張機能"
+	}
+}
