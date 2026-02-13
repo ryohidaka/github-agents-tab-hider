@@ -17,4 +17,4 @@ A browser extension to hide the Agents tab on GitHub
 
 [<img src="./docs/images/store/chrome-web-store.png" alt="Available in the Chrome Web Store" width="248" />](https://chromewebstore.google.com/detail/github-agents-tab-hider/feldcafkmakpgdllmkkjomhbineakpjg)
 <!-- [<img src="./docs/images/store/firefox-add-ons.png" alt="Firefox Browser ADD-ONS" width="248" />](https://addons.mozilla.org/ja/firefox/addon/.../) -->
-<!-- [<img src="./docs/images/store/microsoft.webp" alt="Microsoft Edge Addons" width="248" />](https://microsoftedge.microsoft.com/...) -->
+[<img src="./docs/images/store/microsoft.webp" alt="Microsoft Edge Addons" width="248" />](https://microsoftedge.microsoft.com/addons/detail/github-agents-tab-hider/efkgfdpffoogfhonecbapcnpekiodndp)
