@@ -1,0 +1,8 @@
+{
+	"extensionName": {
+		"message": "GitHub Agents Tab Hider"
+	},
+	"extensionDescription": {
+		"message": "Una extensión de navegador para ocultar la pestaña Agents en GitHub"
+	}
+}
