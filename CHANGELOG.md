@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.2.0](https://github.com/ryohidaka/github-agents-tab-hider/compare/v0.1.0...v0.2.0) (2026-07-07)
+
+
+### Features
+
+* add es ([7d9cc22](https://github.com/ryohidaka/github-agents-tab-hider/commit/7d9cc22b4694589b0e702d8349d1e60a6b06dafe))
+* add ko ([1147ce8](https://github.com/ryohidaka/github-agents-tab-hider/commit/1147ce8955858895ca2cd0824dcfe722b5309a8a))
+* add zh_CN ([b4533cc](https://github.com/ryohidaka/github-agents-tab-hider/commit/b4533ccb093778bc8ef794ae5a7bd57444a5c871))
+* add zh_TW ([05fadfa](https://github.com/ryohidaka/github-agents-tab-hider/commit/05fadfaee3641a456617224d1be059e8757dfd9c))
+
 ## [0.1.0](https://github.com/ryohidaka/github-agents-tab-hider/compare/v0.0.1...v0.1.0) (2026-02-13)
 
 
